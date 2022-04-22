@@ -40,7 +40,8 @@ while True:
     possible_outcomes =  ['y', 'n','yes', 'no']
     if   play_again.lower() not in possible_outcomes:
         print ("Enter Vaild Input")
-        break 
+    else:
+         break 
 
         
         break
