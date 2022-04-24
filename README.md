@@ -1,2 +1,2 @@
 # Python-For-Fun
-Short python program for fun and timepass!
+Short Python programs for fun and timepass!
