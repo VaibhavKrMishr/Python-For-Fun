@@ -22,7 +22,7 @@ key = input("Enter Key:")
 passcode = my_function()
 
 print(f"\n{key} : {passcode}")
-input()
+input("Press Enter To Save.")
 
 file.write(f"\n{key}:{passcode}\n")
 
