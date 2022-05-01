@@ -11,9 +11,9 @@ def my_function():
     
         lenght = int(input("Enter The Length of Your Password:"))
     
-        all = lower+upper+number+symbol
+        all_ = lower+upper+number+symbol
     
-        password = "".join(random.sample(all,lenght))
+        password = "".join(random.sample(all_,lenght))
 
         return password
 
