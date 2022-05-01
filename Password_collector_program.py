@@ -26,4 +26,4 @@ input("Press Enter To Save.")
 
 file.write(f"\n{key}:{passcode}\n")
 
-file.close
+file.close()
